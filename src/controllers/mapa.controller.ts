@@ -78,6 +78,4 @@ export const updateMap = async (req: Request, res: Response) => {
             msg: 'Error al actualizar el Mapa'
         });
     }
-
-
 }
