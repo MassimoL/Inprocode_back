@@ -48,12 +48,3 @@ export const postChart = [
         }
     }
 ];
-
-
-
-
-
-
-
-
-
