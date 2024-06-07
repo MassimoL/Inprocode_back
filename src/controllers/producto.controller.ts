@@ -4,7 +4,6 @@ import Producto from "../models/producto";
 import { productValidator } from '../validations/producto.validations'; 
 
 
-
 export const getProducts = async (req: Request, res: Response) => {
     const listProducts = await Producto.findAll();
 
