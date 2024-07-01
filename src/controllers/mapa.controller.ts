@@ -79,4 +79,3 @@ export const updateMap = async (req: Request, res: Response) => {
         });
     }
 }
-
