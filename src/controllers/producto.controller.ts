@@ -99,3 +99,5 @@ export const updateProduct = [
         }
     }
 ];
+
+
